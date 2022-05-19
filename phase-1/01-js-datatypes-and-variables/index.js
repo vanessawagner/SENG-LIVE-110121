@@ -2,7 +2,7 @@
 
 // ✅ Using console.log()
 
-    // console.log("Hey there!");
+    console.log("Hey there!");
 
     // let x = 2;
 
